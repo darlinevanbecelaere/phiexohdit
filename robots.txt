@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaenaowuo.matthiasbruns.com/sitemap.xml
